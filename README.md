@@ -1,1 +1,1 @@
-# wildlifedetection
+# Remote Wildlife Detection
